@@ -266,7 +266,7 @@ input:focus {
   background-color: transparent;
   border: 2px solid darkcyan;
   padding: 5px 10px;
-  color: #00FF00;
+  color: darkcyan;
   cursor: pointer;
   font-size: 16px;
   margin-top: 10px;
